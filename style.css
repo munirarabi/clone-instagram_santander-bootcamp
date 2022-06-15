@@ -145,4 +145,8 @@ body {
     .instagram-continue {
         width: 100%;
     }
+
+    .instagram-continue {
+        min-height: 40rem;
+    }
 }
